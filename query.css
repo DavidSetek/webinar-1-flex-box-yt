@@ -1,0 +1,17 @@
+@media (max-width: 1000px){
+    .about-us {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 800px){
+    header img {
+        width: 200px;
+    }
+}
+
+@media (max-width: 650px){
+    header h1 {
+        font-size: 60px;
+    }
+}
